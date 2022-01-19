@@ -7,7 +7,7 @@ const Main = () => {
         <div className="App">
             <header className="App-header">
                 <div className='"card mb-3'>
-                <img className='card-img-top' src={process.env.PUBLIC_URL + "/images/boletaRifa.jpeg"} alt="" />
+                    <img className='card-img-top' src={process.env.PUBLIC_URL + "/assets/boletaRifa.jpeg"} alt="" />
                 </div>
                 <h3 className='card-title"' >Rifa Benefica</h3>
             </header>

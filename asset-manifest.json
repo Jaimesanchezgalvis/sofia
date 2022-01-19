@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sofia/static/css/main.ec83b600.css",
-    "main.js": "/sofia/static/js/main.13433f40.js",
+    "main.js": "/sofia/static/js/main.d87c55c7.js",
     "index.html": "/sofia/index.html",
     "main.ec83b600.css.map": "/sofia/static/css/main.ec83b600.css.map",
-    "main.13433f40.js.map": "/sofia/static/js/main.13433f40.js.map"
+    "main.d87c55c7.js.map": "/sofia/static/js/main.d87c55c7.js.map"
   },
   "entrypoints": [
     "static/css/main.ec83b600.css",
-    "static/js/main.13433f40.js"
+    "static/js/main.d87c55c7.js"
   ]
 }

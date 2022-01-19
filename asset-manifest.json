@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sofia/static/css/main.ca57846c.css",
+    "main.js": "/sofia/static/js/main.22c34884.js",
+    "index.html": "/sofia/index.html",
+    "main.ca57846c.css.map": "/sofia/static/css/main.ca57846c.css.map",
+    "main.22c34884.js.map": "/sofia/static/js/main.22c34884.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca57846c.css",
+    "static/js/main.22c34884.js"
+  ]
+}
